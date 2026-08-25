@@ -1,15 +1,15 @@
-# OpsPilot
+# OpsPilot Docs
 
-AI-assisted customer support platform.
+| Doc | What's in it |
+|---|---|
+| [roadmap.md](./roadmap.md) | 8-week plan, weekly scope, slip protocol |
+| [product-research.md](./product-research.md) | Ticket lifecycle, personas, competitor scan |
+| [mvp.md](./mvp.md) | What's in scope, what's explicitly not |
+| [user-stories.md](./user-stories.md) | US-xx stories with acceptance criteria |
+| [architecture.md](./architecture.md) | System design, request flow, stack rationale |
+| [database-design.md](./database-design.md) | ERD, tables, indexes, conventions |
+| [adr/](./adr/) | Architecture Decision Records |
 
-## Problem
+## Status
 
-## Features (planned)
-
-## Tech Stack
-
-## Local Setup
-
-## Roadmap → docs/README.md
-
-## Status → 🚧 Week 1 of 8
+Week 1 of 8 — design phase.
