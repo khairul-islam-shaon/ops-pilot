@@ -2,7 +2,6 @@
 
 | Doc | What's in it |
 |---|---|
-| [roadmap.md](./roadmap.md) | 8-week plan, weekly scope, slip protocol |
 | [product-research.md](./product-research.md) | Ticket lifecycle, personas, competitor scan |
 | [mvp.md](./mvp.md) | What's in scope, what's explicitly not |
 | [user-stories.md](./user-stories.md) | US-xx stories with acceptance criteria |
